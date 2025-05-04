@@ -1,0 +1,24 @@
+# Unity-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+MemoryCaptures/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.unityproj
+
+# Unity meta files (optional in UPM packages)
+*.meta
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
