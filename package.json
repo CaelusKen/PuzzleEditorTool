@@ -1,0 +1,19 @@
+{
+  "name": "com.caelus-ken.puzzleeditor",
+  "version": "0.0.1",
+  "displayName": "Puzzle Editor Tool",
+  "description": "A custom Unity editor for designing logic-based puzzles using step or checklist structures.",
+  "unity": "6000.0.34f1",
+  "author": {
+    "name": "Caelus Ken",
+    "email": "caelus.khangthuan1209@gmail.com",
+    "url": "https://github.com/CaelusKen"
+  },
+  "keywords": [
+    "editor",
+    "puzzle",
+    "logic",
+    "tool",
+    "custom-editor"
+  ]
+}
