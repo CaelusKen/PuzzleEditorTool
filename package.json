@@ -1,5 +1,5 @@
 {
-  "name": "com.caelus-ken.puzzleeditor",
+  "name": "com.caelusken.puzzleeditor",
   "version": "0.0.1",
   "displayName": "Puzzle Editor Tool",
   "description": "A custom Unity editor for designing logic-based puzzles using step or checklist structures.",
