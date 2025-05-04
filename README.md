@@ -4,7 +4,7 @@ A modular, extensible **Unity Editor extension** for designing logic-driven puzz
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Unity](https://img.shields.io/badge/unity-6000.0.34f1-blue)
-![Version](https://img.shields.io/badge/version-0.0.2-blueviolet)
+![Version](https://img.shields.io/badge/version-0.0.3-blueviolet)
 
 ---
 
@@ -27,7 +27,7 @@ A modular, extensible **Unity Editor extension** for designing logic-driven puzz
 Add this line to your `manifest.json` file in the `Packages` folder of your Unity project:
 
 ```json
-"com.yourname.puzzleeditor": "https://github.com/yourname/PuzzleEditorTool.git#v0.0.2"
+"com.yourname.puzzleeditor": "https://github.com/yourname/PuzzleEditorTool.git#v0.0.3"
 ```
 
 #### Option 2: Through Unity Editor
@@ -36,7 +36,7 @@ Add this line to your `manifest.json` file in the `Packages` folder of your Unit
 - Click `+` → **Add package from Git URL…**
 - Paste:
   ```
-  https://github.com/CaelusKen/PuzzleEditorTool.git#v0.0.2
+  https://github.com/CaelusKen/PuzzleEditorTool.git#v0.0.3
   ```
 
 ---
